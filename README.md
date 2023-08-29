@@ -1,6 +1,7 @@
 # Hola! 👋
 
-Soy Sol, Full-Stack Developer! Mi enfoque abarca tanto el desarrollo del back-end como también el front-end. 
+**Soy Sol, Full-Stack Developer!   
+Mi enfoque abarca tanto el desarrollo del back-end como también el front-end.** 
 
 ## En mis proyectos pude implementar:
 
